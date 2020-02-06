@@ -1,0 +1,7 @@
+{
+  "name": "ionicBoppo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
